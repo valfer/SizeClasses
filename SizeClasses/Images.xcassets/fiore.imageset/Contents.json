@@ -1,0 +1,65 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "fiore.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "heightClass" : "regular"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "heightClass" : "regular"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "heightClass" : "regular"
+    },
+    {
+      "idiom" : "universal",
+      "widthClass" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "widthClass" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "widthClass" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "heightClass" : "regular",
+      "widthClass" : "compact"
+    },
+    {
+      "heightClass" : "regular",
+      "idiom" : "universal",
+      "widthClass" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "heightClass" : "regular",
+      "idiom" : "universal",
+      "widthClass" : "compact",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
